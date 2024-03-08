@@ -1,0 +1,31 @@
+
+body{
+    background-color: rgb(8, 1, 30);
+    color: aliceblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.divs{
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+}
+
+.div{border-radius: 10px;
+    border: rgb(205, 205, 231) 1px solid;
+    padding: 30px;
+    margin: auto;
+    max-width: 300px;
+}
+
+.d-none{
+    display: none;
+}
+
+.div5{
+    max-width: 100%;
+}
+
+.video{
+    width: 100%;
+}
